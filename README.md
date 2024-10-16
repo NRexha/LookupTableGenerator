@@ -1,6 +1,6 @@
 # LookupTableGenerator
  
-This simple tool lets you create Look-Up Tables from mathematical functions. You can input any math function. Once you're ready, just click the "Generate LUT" button, and the tool will create a grayscale image based on the function you provided. It's an easy way to visualize math functions and create LUTs.
+This simple tool lets you create **Look-Up Tables from mathematical functions**. You can input any math function and once you're ready, just click the "Generate LUT" button, and the tool will create a grayscale image based on the function you provided. You can either use the **executable**(it's a stand-alone file) or directly run the **python script** (in that case you'll have to download the following libraries: *numpy matplotlib sympy PySide6*).
 
 ![image](https://github.com/user-attachments/assets/a9760154-efaa-4af4-b817-7ac89d5d35d5)
 
@@ -11,10 +11,11 @@ This simple tool lets you create Look-Up Tables from mathematical functions. You
 ![output](https://github.com/user-attachments/assets/4d193cdf-b8e3-4030-91b8-e33df0b9965b)
 
 
-
+# Little message
+The tool is far from being perfect, in case you have any suggestions feel free to ask a pull request or simply contact me. The code is accesible to everyone.
 
 ## Mathematical functions that you can input
-Ensure that you follow Python's syntax when inputting functions. For example, use x * sin(x) for the function xsin(x).
+<ins>**Ensure that you follow Python's syntax when inputting functions.</ins>** For example, use x * sin(x) for the function xsin(x)
 ### Basic Functions
 - Addition: x + y
 - Subtraction: x - y
