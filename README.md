@@ -1,6 +1,6 @@
 # LookupTableGenerator
  
-This simple tool lets you create **Look-Up Tables from mathematical functions**. You can input any math function and check how it looks by using one of the preview modes. When you're happy with it,you just click the "Generate LUT" button and the tool will create a grayscale image based on the function you provided. You can either use the **executable** and all you'll have to do is run the .exe file(you will need the "LUTool.exe" and the folder "_internal") or directly run the **python script** (in that case you'll have to download the following libraries: *numpy matplotlib sympy PySide6*).
+This simple tool lets you create **Look-Up Tables from mathematical functions**. You can input any math function and check how it looks by using one of the preview modes. When you're happy with it,you just click the "Generate LUT" button and the tool will create a grayscale image based on the function you provided. You can either use the **executable** and all you'll have to do is run the .exe file (you will need the "LUTool.exe" and the folder "_internal") or directly run the **python script** (dowload all the scripts and run "LUTool.py"), in that case you'll have to download the following libraries: *numpy matplotlib sympy PySide6*.
 
 ![Sans titre-1](https://github.com/user-attachments/assets/94c8c17b-90f1-4305-ae4c-090d28092144)
 
